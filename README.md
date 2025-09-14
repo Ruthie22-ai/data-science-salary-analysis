@@ -58,7 +58,7 @@ The goal of this project is to uncover insights into **salary drivers** and prov
 
 ![Dashboard Screenshot](your-dashboard-image-link-here)  
 
-*(Replace the link above with the path to your dashboard image, e.g. `/images/dashboard.png`)*  
+*(Replace the link above with the path to your dashboard image, e.g. `/images/dashboard.png`)* 
 
 ---
 
