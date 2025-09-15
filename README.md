@@ -59,6 +59,7 @@ images/data science salary.PNG
 !https://photos.app.goo.gl/5gKLwshjJX7wiwfy8 
 !https://github.com/Ruthie22-ai/data-science-salary-analysis/blob/4d71ae0de6a591f7146637f86460be80bc46c15e/data%20science%20salary.PNG
 *(Replace the link above with the path to your dashboard image, e.g. `/images/dashboard.png`)* 
+<img width="892" height="494" alt="data science salary" src="https://github.com/user-attachments/assets/cdac062f-2424-4dc1-aaf2-7ed55831f52c" />
 
 ---
 
