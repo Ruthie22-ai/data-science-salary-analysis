@@ -55,7 +55,7 @@ The goal of this project is to uncover insights into **salary drivers** and prov
 ---
 
 ## 🖼 Dashboard Screenshot  
-
+data science salary.PNG
 !https://photos.app.goo.gl/5gKLwshjJX7wiwfy8 
 
 *(Replace the link above with the path to your dashboard image, e.g. `/images/dashboard.png`)* 
